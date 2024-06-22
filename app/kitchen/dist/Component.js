@@ -1,0 +1,1 @@
+sap.ui.define(["sap/fe/core/AppComponent"],function(n){"use strict";return n.extend("com.manichand.nnrg.kitchen.Component",{metadata:{manifest:"json"}})});
