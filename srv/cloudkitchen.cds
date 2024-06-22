@@ -13,6 +13,8 @@ service nnrg @(requires: 'authenticated-user') {
     ProductType,
     BaseUnit,
     ProductGroup
+    to_description,
+    null as ProductDescription: String(80)
   }
 
 }
